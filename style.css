@@ -1,0 +1,17 @@
+body{color: darkorange;
+background-image: url(images/inter2.jpg);
+text-align: center;
+font-family: 'Signika Negative', sans-serif;
+font-size: 20px;}
+a{text-decoration: none;}
+p{text-align: center;}
+h2{color: darkgreen;
+font-size: 50px;
+font-family: 'Calligraffitti', cursive;}
+h1{color: indianred;
+text-align: center;
+font-family: 'Sigmar One', cursive;
+font-size: 80px;}
+h3{color: lightblue;
+font-size: 30px;
+font-family: 'Satisfy', cursive;}
